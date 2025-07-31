@@ -1,0 +1,14 @@
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\bin\Debug\net9.0\ProjetosCsharp.exe
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\bin\Debug\net9.0\ProjetosCsharp.deps.json
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\bin\Debug\net9.0\ProjetosCsharp.runtimeconfig.json
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\bin\Debug\net9.0\ProjetosCsharp.dll
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\bin\Debug\net9.0\ProjetosCsharp.pdb
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\obj\Debug\net9.0\ProjetosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\obj\Debug\net9.0\ProjetosCsharp.AssemblyInfoInputs.cache
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\obj\Debug\net9.0\ProjetosCsharp.AssemblyInfo.cs
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\obj\Debug\net9.0\ProjetosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\obj\Debug\net9.0\ProjetosCsharp.dll
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\obj\Debug\net9.0\refint\ProjetosCsharp.dll
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\obj\Debug\net9.0\ProjetosCsharp.pdb
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\obj\Debug\net9.0\ProjetosCsharp.genruntimeconfig.cache
+C:\Users\Micro\Desktop\DsTarefas_2025\6_Funcoes\ProjetosCsharp\obj\Debug\net9.0\ref\ProjetosCsharp.dll
